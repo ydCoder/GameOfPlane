@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/gg/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="customizer.jar"/>
+	<classpathentry kind="lib" path="multiplayer.jar"/>
+	<classpathentry kind="lib" path="jmf.jar"/>
+	<classpathentry kind="lib" path="mediaplayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
